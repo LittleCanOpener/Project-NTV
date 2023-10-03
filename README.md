@@ -1,15 +1,62 @@
 # Project-NTV
 NTV-Dart-Flutter
+<h1>Criteria</h1>
+<h2>Turn-in instructions:</h2>
+<p>
+    This assessment must be turned in via Git at github.com
+    Each solution must be in a separate file, within the same project.
+    Please add pictures of final output.
+</p>
+<table>
+  <tr>
+    <th>Assignments</th>
+  </tr>
+  <tr>
+    <td>Using a for-loop, write a program that prints the first 10 natural numbers (1 to 10) and prints out their
+    sum. The for-loop should be responsible for adding each number to it’s previous sum. Finally print the
+    sum. The correct sum is 55.</td>
+  </tr>
+  <tr>
+    <td>Write a program that accepts input number from user and prints the multiplication (1-10) table of the
+    given number using for loop. Program should be able to accept any number - the example below only
+    demonstrates if the users enters 5.<br>
+    Example Input<br>
+    Input num: 5<br>
+    Output<br>
+    • • 5 * 1 = 5<br>
+    • • 5 * 2 = 10<br>
+    • • 5 * 3 = 15<br>
+    • • 5 * 4 = 20<br>
+    • • 5 * 5 = 25<br>
+    • • 5 * 6 = 30<br>
+    • • 5 * 7 = 35<br>
+    • • 5 * 8 = 40<br>
+    • • 5 * 9 = 45<br>
+    • • 5 * 10 = 50<br>
+    </td>
+  </tr>
+    <tr>
+    <td>Write a program to read 5 numbers from keyboard, using a loop. The program should work with any 5
+    numbers. Program ends by printing out the sum and average of the numbers.</td>
+  </tr>
+    <tr>
+    <td>Write a program that accepts a number from the user and counts the number of digits in the given<br>
+    integer using loop.<br>
+    Example Input<br>
+    Input num: 24967<br>
+    Output<br>
+    Number of digits: 5<br>
+    Here is the step-by-step algorithm to solve this challenge.<br>
+    (a) Input a number from user. Store it in some variable say num.<br>
+    (b) Initialize another variable to store total digits say digit = 0.<br>
+    (c) If num > 0 then increment count by 1 i.e. count++<br>
+    (d) Divide num by 10 to remove last digit of the given number i.e. num = num / 10.<br>
+    (e) Repeat step c and d till num > 0 or num != 0.<br>
+    </td>
+  </tr>
+</table>
 <h1>Technologies</h1>
 <ol>
-    <li>
-        <h3>Microsoft Teams</h3><p>
-        <img src="assets/image/icons/microsoftteams.png" width="140px" height="40px"><br>
-        Why <a href="https://www.microsoft.com/en-us/microsoft-teams/group-chat-software" target="_blank">Microsoft Teams</a>:<br>
-        Using Teams, individuals can share files, organize meetings from their calendar, and sync with other Office apps like OneNote, OneDrive, and Skype for Business. This improves collaboration and communication while simultaneously aiding the adoption of Office 365.<br>
-        <small><a href="https://www.microsoft.com/en-us/microsoft-teams/download-app" target="_blank">Download here</a></small>
-        </p><hr>
-    </li>
     <li>
         <h3>Git</h3><p>
         <img src="assets/image/icons/git.png" width="40px" height="40x"><br>
