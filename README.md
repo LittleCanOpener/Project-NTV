@@ -9,12 +9,15 @@ NTV-Dart-Flutter
 </p>
 <table>
   <tr>
-    <th>Assignments</th>
+    <th>Assignment 1.</th>
   </tr>
   <tr>
     <td>Using a for-loop, write a program that prints the first 10 natural numbers (1 to 10) and prints out their
     sum. The for-loop should be responsible for adding each number to it’s previous sum. Finally print the
     sum. The correct sum is 55.</td>
+  </tr>
+  <tr>
+    <th>Assignment 2.</th>
   </tr>
   <tr>
     <td>Write a program that accepts input number from user and prints the multiplication (1-10) table of the
@@ -36,8 +39,14 @@ NTV-Dart-Flutter
     </td>
   </tr>
     <tr>
+    <th>Assignment 3.</th>
+  </tr>
+    <tr>
     <td>Write a program to read 5 numbers from keyboard, using a loop. The program should work with any 5
     numbers. Program ends by printing out the sum and average of the numbers.</td>
+  </tr>
+    <tr>
+    <th>Assignment 4.</th>
   </tr>
     <tr>
     <td>Write a program that accepts a number from the user and counts the number of digits in the given<br>
