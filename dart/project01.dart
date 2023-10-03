@@ -2,9 +2,12 @@ import 'dart:core';
 import 'dart:io';
 import 'dart:convert';
 import 'dart:math';
-int number = 1;
 void main(){
+  int number = 0;
+
   for (var i = 0; i < 10; i++){
     print(number++);
+    number += i;
   }
+  print('$number');
 }
