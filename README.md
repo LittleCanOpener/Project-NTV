@@ -17,18 +17,11 @@ NTV-Dart-Flutter
     sum. The correct sum is 55.</td>
   </tr>
   <tr>
-    <th>Assignment 1 Results & Approach.</th>
+    <th>Assignment 1 Results.</th>
   </tr>
     <tr>
       <td>
-        <p>
-          First I followed the instructions and the request for a
-          "for loop" counting from 1 -> 10 and printing that individually and neatly.
-        </p>
         <img src="assets/image/assignment1.png"><br>
-        <p>
-          After completing the first task I then build upon the code as asked of me I made it so it counted seperatly as I wanted to have as much space to build upon later on in the future if needed be. And after it was done I went over the instructions again and polished out minor requirements like changing "number -> sum" and such.
-        </p>
         <img src="assets/image/assignment1.1.png"><br>
       </td>
   </tr>
@@ -53,6 +46,14 @@ NTV-Dart-Flutter
     • • 5 * 9 = 45<br>
     • • 5 * 10 = 50<br>
     </td>
+  </tr>
+  <tr>
+      <th>Assignment 2 Results.</th>
+  </tr>
+  <tr>
+      <td>
+        <img src="assets/image/assignment2.png"><br>
+      </td>
   </tr>
     <tr>
     <th>Assignment 3.</th>
