@@ -1,11 +1,13 @@
 import 'dart:core';
 import 'dart:io';
-import 'dart:convert';
-import 'dart:math';
+
 void main(){
-  print('Please select a number');
-  int num = stdin.readByteSync();
-  for (num = 0; num <= 10; num++) {
-    print("${num ++}");
-  }
+  print('Enter a number');
+  int num = int.parse(stdin.readLineSync()!);
+  int count = 0;
+  do {
+    count++;
+    num = num ~/ 10;
+  } while(num > 0 || num != 0);
+  print('Number of digits: $count');
 }
