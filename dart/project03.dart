@@ -17,7 +17,7 @@ void main(){
 
    */
     if (list.length == 5 ){
-      for (var i = 0; i < list.length; i++) {
+      for (var i = 1; i < list.length; i++) {
         sum += list[i];
         }
       print(sum);
