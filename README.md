@@ -63,6 +63,14 @@ NTV-Dart-Flutter
     numbers. Program ends by printing out the sum and average of the numbers.</td>
   </tr>
     <tr>
+    <th>Assignment 3 Results.</th>
+  </tr>
+    <tr>
+      <td>
+        <img src="assets/image/assignment3.png"><br>
+      </td>
+  </tr>
+    <tr>
     <th>Assignment 4.</th>
   </tr>
     <tr>
@@ -79,6 +87,14 @@ NTV-Dart-Flutter
     (d) Divide num by 10 to remove last digit of the given number i.e. num = num / 10.<br>
     (e) Repeat step c and d till num > 0 or num != 0.<br>
     </td>
+  </tr>
+      <tr>
+    <th>Assignment 4 Results.</th>
+  </tr>
+    <tr>
+      <td>
+        <img src="assets/image/assignment4.png"><br>
+      </td>
   </tr>
 </table>
 <h1>Technologies</h1>
