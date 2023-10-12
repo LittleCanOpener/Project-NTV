@@ -1,20 +1,10 @@
-// Imports
 import 'dart:core';
 import 'dart:io';
 
 void main(){
-  List<String> list =[];
-  print('Would you like to "view" the list or "add" to it?');
-  addItemToList myList = addItemToList('');
-  if (myList == "view") {
-    print('$list');
-  } else if (myList == "add") {
-    print(this.name);
-  }
-}
-
-// Class Method
-class addItemToList {
-  String? name = stdin.readLineSync();
-  addItemToList(this.name);
+  print('Please select a number');
+  int num = int.parse(stdin.readLineSync()!);
+  for (var i = 0; i <= 10; i++) {
+      print("${num}*${i}=${num * i}");
+    }
 }

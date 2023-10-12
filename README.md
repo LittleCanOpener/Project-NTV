@@ -1,4 +1,5 @@
-# NTV Verkefni 3
+# Project-NTV
+NTV-Dart-Flutter
 <h1>Criteria</h1>
 <h2>Turn-in instructions:</h2>
 <p>
@@ -11,23 +12,39 @@
     <th>Assignment 1.</th>
   </tr>
   <tr>
-    <td>Create an empty list to store the grocery items.<hr>
-    Create a method called "addItemToList" that takes an item as input and adds it to the list.</td>
+    <td>Using a for-loop, write a program that prints the first 10 natural numbers (1 to 10) and prints out their
+    sum. The for-loop should be responsible for adding each number to it’s previous sum. Finally print the
+    sum. The correct sum is 55.</td>
   </tr>
   <tr>
     <th>Assignment 1 Results.</th>
   </tr>
     <tr>
       <td>
-        <img src="#"><br>
+        <img src="assets/image/assignment1.png"><br>
+        <img src="assets/image/assignment1.1.png"><br>
       </td>
   </tr>
   <tr>
     <th>Assignment 2.</th>
   </tr>
   <tr>
-    <td>Create a menu system that allows the user to choose between adding an item to the list, viewing the list, or ending the program.<hr>
-    If the user chooses to add an item, prompt them for the item name and call the "addItemToList" method to add it to the list.
+    <td>Write a program that accepts input number from user and prints the multiplication (1-10) table of the
+    given number using for loop. Program should be able to accept any number - the example below only
+    demonstrates if the users enters 5.<br>
+    Example Input<br>
+    Input num: 5<br>
+    Output<br>
+    • • 5 * 1 = 5<br>
+    • • 5 * 2 = 10<br>
+    • • 5 * 3 = 15<br>
+    • • 5 * 4 = 20<br>
+    • • 5 * 5 = 25<br>
+    • • 5 * 6 = 30<br>
+    • • 5 * 7 = 35<br>
+    • • 5 * 8 = 40<br>
+    • • 5 * 9 = 45<br>
+    • • 5 * 10 = 50<br>
     </td>
   </tr>
   <tr>
@@ -35,28 +52,40 @@
   </tr>
   <tr>
       <td>
-        <img src="#"><br>
+        <img src="assets/image/assignment2.png"><br>
       </td>
   </tr>
     <tr>
     <th>Assignment 3.</th>
   </tr>
     <tr>
-    <td>If the user chooses to view the list, display the contents of the list.</td>
+    <td>Write a program to read 5 numbers from keyboard, using a loop. The program should work with any 5
+    numbers. Program ends by printing out the sum and average of the numbers.</td>
   </tr>
     <tr>
     <th>Assignment 3 Results.</th>
   </tr>
     <tr>
       <td>
-        <img src="#"><br>
+        <img src="assets/image/assignment3.png"><br>
       </td>
   </tr>
     <tr>
     <th>Assignment 4.</th>
   </tr>
     <tr>
-    <td>If the user chooses to end the program, exit the menu loop and end the program.
+    <td>Write a program that accepts a number from the user and counts the number of digits in the given<br>
+    integer using loop.<br>
+    Example Input<br>
+    Input num: 24967<br>
+    Output<br>
+    Number of digits: 5<br>
+    Here is the step-by-step algorithm to solve this challenge.<br>
+    (a) Input a number from user. Store it in some variable say num.<br>
+    (b) Initialize another variable to store total digits say digit = 0.<br>
+    (c) If num > 0 then increment count by 1 i.e. count++<br>
+    (d) Divide num by 10 to remove last digit of the given number i.e. num = num / 10.<br>
+    (e) Repeat step c and d till num > 0 or num != 0.<br>
     </td>
   </tr>
       <tr>
@@ -64,7 +93,7 @@
   </tr>
     <tr>
       <td>
-        <img src="#"><br>
+        <img src="assets/image/assignment4.png"><br>
       </td>
   </tr>
 </table>

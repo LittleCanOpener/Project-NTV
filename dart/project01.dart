@@ -1,14 +1,11 @@
-// Imports
 import 'dart:core';
-import 'dart:io';
 
-// Main Function 1.
 void main(){
-  List<String> list =[];
-}
+  int sum = 0;
 
-// Class Method 2.
-class addItemToList {
-  String? name = stdin.readLineSync();
-  addItemToList(this.name);
+  for (var i = 0; i < 10; i++){
+    print(sum++);
+    sum += i;
+  }
+  print('The correct $sum');
 }
